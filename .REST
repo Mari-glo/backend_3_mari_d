@@ -1,0 +1,14 @@
+/// parametros
+###
+GET http://localhost:8080/api/users
+
+///mensajes
+###
+GET http://localhost:8080/api/messages
+
+###
+POST http://localhost:8080/api/messages
+###
+PUT http://localhost:8080/api/messages
+###
+DELETE http://localhost:8080/api/messages
